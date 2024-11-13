@@ -5,7 +5,7 @@
 ### **About me**
 
 - 🎒 I am currently studying in Tianjin University ;
-- 🌱 I’m currently learning C++ and Python; 
+- 🌱 I’m currently learning C++; 
 - 💬 Ask me about anything, I am happy to answer or discussion with you;
 - 📫 How to reach me: feixiang_22@tju.edu.cn;
 
