@@ -5,12 +5,12 @@
 ### **About me**
 
 - 🎒 I am studying in Tianjin University ;
-- 🌱 I’m currently learning C++; 
+- 🌱 I’m currently learning C++, golang; 
 - 💬 Ask me about anything, I am happy to answer or discussion with you;
 - 📫 How to reach me: feixiang_22@tju.edu.cn;
 
 ### **Tech Stack**
-- 💻 C++ | Python | Java | Golang | C | MySQL
+- 💻 C++ | Python | Go | Java | Golang | C | MySQL
 - 🌐 ubuntu | docker | wsl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutdown&layout=compact&theme=tokyonight)
