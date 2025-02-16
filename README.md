@@ -10,7 +10,7 @@
 - 📫 How to reach me: feixiang_22@tju.edu.cn;
 
 ### **Tech Stack**
-- 💻 C++ | Python | Go | Java | Golang | C | MySQL
+- 💻 C++ | Python | Golang
 - 🌐 ubuntu | docker | wsl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutdown&layout=compact&theme=tokyonight)
