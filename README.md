@@ -2,7 +2,6 @@
 
 <a href="https://www.zhihu.com/people/mcgyfw"><img alt="Blog" src="https://img.shields.io/badge/Liberity-black?style=flat-square&logo=zhihu"></a>
 
-https://sutdown.github.io/
 ### **About me**
 
 - 🎒 I am studying in Tianjin University ;
