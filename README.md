@@ -18,7 +18,7 @@
 ### From [**Sutdown's project**](https://github.com/Sutdown)
 
 <a href="https://github.com/Sutdown/LSM-kv">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sutdown&repo=LSM-kv" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sutdown&repo=sutkv-lsm" />
 </a>
 
 <a href="https://github.com/Sutdown/coroutinelib">
