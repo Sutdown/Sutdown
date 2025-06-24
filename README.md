@@ -10,21 +10,9 @@
 - 📫 How to reach me: feixiang_22@tju.edu.cn;
 
 ### **Tech Stack**
-- 💻 C++ | Python | Golang
+- 💻 C++ | Python | Rust | Golang
 - 🌐 ubuntu | docker | wsl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutdown&layout=compact&theme=tokyonight)
 
 ### From [**Sutdown's project**](https://github.com/Sutdown)
-
-<a href="https://github.com/Sutdown/LSM-kv">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sutdown&repo=sutkv-lsm" />
-</a>
-
-<a href="https://github.com/Sutdown/coroutinelib">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sutdown&repo=coroutinelib" />
-</a>
-
-<a href="https://github.com/Sutdown/Note">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sutdown&repo=Note" />
-</a>
