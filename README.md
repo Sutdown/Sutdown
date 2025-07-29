@@ -14,5 +14,3 @@
 - 🌐 ubuntu | docker | wsl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutdown&layout=compact&theme=tokyonight)
-
-### From [**Sutdown's project**](https://github.com/Sutdown)
