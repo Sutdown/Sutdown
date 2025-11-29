@@ -4,8 +4,8 @@
 
 ### **About me**
 
-- 🎒 I am studying in Tianjin University ;
-- 🌱 I’m currently learning C++, golang; 
+- 🎒 I am studying in Hainan University ;
+- 🌱 I’m currently learning C++, golang, python; 
 - 💬 Ask me about anything, I am happy to answer or discussion with you;
 - 📫 How to reach me: feixiang_22@tju.edu.cn;
 
